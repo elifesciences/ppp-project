@@ -1,0 +1,104 @@
+- annotations:
+  - nlisgo: 24
+- api-dummy:
+  - nlisgo: 11
+- api-gateway-formula:
+  - lsh-0: 43
+- basebox-formula:
+  - lsh-0: 1
+- bastion-formula:
+  - lsh-0: 2
+  - damnhipster: 1
+- bioprotocol-service:
+  - lsh-0: 72
+- builder:
+  - lsh-0: 1139
+  - de-code: 10
+  - code56: 7
+  - gnott: 5
+  - garyttierney: 3
+  - Cooryd: 1
+  - tayowonibi: 1
+  - nlisgo: 1
+- bus: []
+- containers-formula: []
+- data-pipeline-formula:
+  - lsh-0: 111
+  - tayowonibi: 8
+  - de-code: 2
+- digests:
+  - lsh-0: 9
+  - gnott: 2
+- elife-alfred-formula:
+  - lsh-0: 18
+  - de-code: 11
+  - tayowonibi: 1
+- elife-bot:
+  - gnott: 2864
+  - lsh-0: 22
+  - nlisgo: 2
+- elife-dashboard:
+  - lsh-0: 61
+  - discodavey: 4
+- elife-libraries-formula:
+  - lsh-0: 29
+- elife-metrics:
+  - lsh-0: 489
+- elife-reporting-formula:
+  - lsh-0: 19
+- elife-xpub:
+  - damnhipster: 389
+  - jsms90: 329
+  - tamlyn: 283
+  - Cooryd: 195
+  - mihaildu: 164
+  - jyenes: 145
+  - petereast: 112
+  - g-sam: 49
+  - SemraSh: 27
+  - aanand: 25
+  - jure: 8
+- error-pages: []
+- heavybox-formula:
+  - lsh-0: 18
+- iiif-formula:
+  - lsh-0: 102
+  - nlisgo: 1
+- journal:
+  - nlisgo: 28
+  - discodavey: 25
+  - garyttierney: 1
+  - lsh-0: 1
+- journal-cms:
+  - nlisgo: 550
+  - jamiehollern: 45
+  - lsh-0: 4
+  - Dippers: 1
+- lax:
+  - lsh-0: 988
+  - gnott: 106
+  - de-code: 1
+- master-server-formula:
+  - lsh-0: 19
+- observer:
+  - lsh-0: 306
+- pattern-library:
+  - gablaxian: 205
+  - discodavey: 37
+  - scottgemmell: 7
+  - nlisgo: 6
+  - jure: 1
+  - lsh-0: 1
+- profiles:
+  - lsh-0: 2
+- recommendations:
+  - elrossco22: 1
+- redirects-formula:
+  - lsh-0: 11
+- reproducible-document-stack: []
+- sciencebeam-texture:
+  - de-code: 41
+- search:
+  - lsh-0: 7
+  - nlisgo: 4
+  - elrossco22: 3
